@@ -41,3 +41,9 @@ Welcome to my DA portfolio!! I have classified my DA project into different tool
 
 
 # All projects
+
+[👨‍💻 Python + SQL + IBM Cognos : Final capstone project - Data-Driven Insights: Analyzing Future Skill Requirements for IT Solutions and Consulting Services](https://github.com/24billys/IBM-final-capstone-project)
+
+[💼 Excel + PowerBI : JobsDB-data-anlysis](https://github.com/24billys/JobsDB-data-anlysis)
+
+[🛍️ SQL + Tableau : Adidas-US-Sales](https://github.com/24billys/Adidas-US-Sales)
